@@ -1,0 +1,6 @@
+jupyter-book
+matplotlib
+cartopy
+numpy
+pandas
+eccodes
