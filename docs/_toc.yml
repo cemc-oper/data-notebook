@@ -8,3 +8,16 @@ parts:
   - caption: 快速开始
     chapters:
       - file: started/getting-started
+  - caption: 数据来源
+    chapters:
+      - file: source/local/hpc2023-local
+      - file: source/local/config
+  - caption: 数据格式
+    chapters:
+      - file: format/grib2/index
+        sections:
+          - file: format/grib2/parameter
+          - file: format/grib2/level
+          - file: format/grib2/grib_key
+  # - caption: 数据计算
+  # - caption: 数据可视化

@@ -39,6 +39,6 @@ Please visit http://10.40.150.29:46925
 
 ## License
 
-Copyright &copy; 2024, developers at cemc-oper.
+Copyright &copy; 2024-2025, developers at cemc-oper.
 
 `data-notebook` is licensed under [Apache License, Version 2.0](./LICENSE)
