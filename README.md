@@ -1,10 +1,10 @@
 # data-notebook
 
-数据分析示例 Jupyter 笔记本。
+cedarkit 工具套件数据分析示例 Jupyter 笔记本。
 
 ## 编译
 
-因为使用到 CEMC 业务系统数据产品，需要在 CMA 国家级超算平台子系统 1 中编译。
+因为使用到 CEMC 业务系统数据产品，需要在 CMA-HPC2023-SC1 中编译。
 
 安装依赖包
 

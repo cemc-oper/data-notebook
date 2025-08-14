@@ -21,3 +21,18 @@ parts:
           - file: format/grib2/grib_key
   # - caption: 数据计算
   # - caption: 数据可视化
+  - caption: CEMC数据
+    chapters:
+      - file: cemc/cma-gfs/index
+        sections:
+          - file: cemc/cma-gfs/param-set-01
+          - file: cemc/cma-gfs/param-set-02
+          - file: cemc/cma-gfs/param-set-03
+          - file: cemc/cma-gfs/param-set-04
+          - file: cemc/cma-gfs/param-set-05
+          - file: cemc/cma-gfs/param-set-06
+          - file: cemc/cma-gfs/param-set-07
+          - file: cemc/cma-gfs/param-set-08
+          - file: cemc/cma-gfs/param-set-09
+          - file: cemc/cma-gfs/param-set-10
+          - file: cemc/cma-gfs/param-set-11
