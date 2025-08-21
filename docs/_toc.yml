@@ -36,3 +36,15 @@ parts:
           - file: cemc/cma-gfs/param-set-09
           - file: cemc/cma-gfs/param-set-10
           - file: cemc/cma-gfs/param-set-11
+      - file: cemc/cma-meso-1km/index
+        sections:
+          - file: cemc/cma-meso-1km/param-set-01
+          - file: cemc/cma-meso-1km/param-set-02
+          - file: cemc/cma-meso-1km/param-set-03
+          - file: cemc/cma-meso-1km/param-set-04
+          - file: cemc/cma-meso-1km/param-set-05
+          - file: cemc/cma-meso-1km/param-set-06
+          - file: cemc/cma-meso-1km/param-set-07
+          - file: cemc/cma-meso-1km/param-set-08
+          - file: cemc/cma-meso-1km/param-set-09
+          - file: cemc/cma-meso-1km/param-set-10
